@@ -17,7 +17,7 @@ Time format can be changed by the potentiometer
 
 Schematic is included in the Clock.simu
 
-![gif](./CLock.gif)
+![gif](./Clock.gif)
 
 
 ![schematic](./Simulide.png)
